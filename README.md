@@ -72,7 +72,7 @@ The following dependencies can be found in [requirements.txt](https://github.com
 
 
 
-<h3><img src="https://www.flaticon.com/svg/static/icons/svg/3159/3159002.svg" width="24px"> Thanks for visiting! 🌸<h3>
+<h3><img src="https://www.flaticon.com/svg/static/icons/svg/3159/3159002.svg" width="30px"> Thanks for visiting!<h3>
 
 [![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/0)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/0)[![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/1)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/1)[![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/2)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/2)[![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/3)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/3)[![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/4)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/4)[![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/5)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/5)[![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/6)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/6)[![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/7)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/7)
 
