@@ -5,7 +5,7 @@ This repository contains code for Recommendation of differents restaurants. Deve
 <!--It's live at https://restaurants-spotter.herokuapp.com/  . -->
 
 ![](https://img.shields.io/badge/python-3.6%20|%203.7%20|%203.8-FFFC00?style=flat-circle&logo=python&logoColor=309698)
-![](https://img.shields.io/github/license/shsarv/Restaurant-Recommendation-System?style=flat-circle)
+![](https://img.shields.io/github/license/shsarv/Restaurant-Recommendation-System?color=9900cc&logoColor=9900cc)
 ![](https://img.shields.io/badge/build-flask%201.1.2-blue?style=flat-circle&logo=flask&logoColor=white)
 ![](https://img.shields.io/github/repo-size/shsarv/Restaurant-Recommendation-System?color=e02c73&style=flat-circle)
 ![](https://img.shields.io/tokei/lines/github/shsarv/Restaurant-Recommendation-System?color=orange&logoColor=blue&style=flat-circle)
