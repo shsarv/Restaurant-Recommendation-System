@@ -1,4 +1,4 @@
-# Restaurants Recommendation System  <img src="https://image.flaticon.com/icons/png/512/52/52172.png" width="35px">
+# Restaurants Recommendation System  <img src="https://image.flaticon.com/icons/png/512/52/52172.png" width="40px">
 
 
 This repository contains code for Recommendation of differents restaurants. Developed using Flask and python. Website is hosted on heroku.
@@ -16,7 +16,7 @@ This repository contains code for Recommendation of differents restaurants. Deve
 
 The directory contains web sub directories and a sub directory for hosting model and other scripts:
 
-1. [app.py](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/app.py)The file which contains all the main backend operations of the website and used to run the flask server locally.
+1. [app.py](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/app.py) The file which contains all the main backend operations of the website and used to run the flask server locally.
    
 2. [Procfile](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/Procfile) for setting up heroku.
 
@@ -26,7 +26,7 @@ The directory contains web sub directories and a sub directory for hosting model
 
 5. [static](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/static) contains the css file and images.
   
-### Codebase
+### Codebase <img src="https://www.flaticon.com/svg/static/icons/svg/3565/3565585.svg" width="24px">
 
 The entire code has been developed using Python programming language and is hosted on Heroku. The analysis and model is developed using SkcitLearn library. The website is developed using Flask. 
 
@@ -68,11 +68,11 @@ The following dependencies can be found in [requirements.txt](https://github.com
 6. Machine Learning course- https://www.coursera.org/learn/machine-learning/
 
 
-### License
+### License <img src="https://www.flaticon.com/svg/static/icons/svg/1728/1728431.svg" width="24px">
 
 
 
-### Thanks for visiting! 🌸
+<h3><img src="https://www.flaticon.com/svg/static/icons/svg/3159/3159002.svg" width="24px"> Thanks for visiting! 🌸<h3>
 
 [![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/0)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/0)[![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/1)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/1)[![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/2)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/2)[![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/3)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/3)[![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/4)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/4)[![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/5)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/5)[![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/6)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/6)[![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/7)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/7)
 
