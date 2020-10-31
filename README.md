@@ -61,7 +61,6 @@ The following dependencies can be found in [requirements.txt](https://github.com
 
 ### Thanks for visiting! 🌸
 
-
-<hr>
+[![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/0)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/0)[![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/1)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/1)[![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/2)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/2)[![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/3)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/3)[![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/4)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/4)[![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/5)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/5)[![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/6)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/6)[![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/7)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/7)
 
 <img src="https://img.shields.io/github/followers/shsarv?style=social"><img src="https://img.shields.io/twitter/follow/sarveshroli?label=twitter&style=social">
