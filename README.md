@@ -1,9 +1,18 @@
-# Restaurants Recommendation System
+# Restaurants Recommendation System  <img src="https://image.flaticon.com/icons/png/512/52/52172.png" width="35px">
+
+
 This repository contains code for Recommendation of differents restaurants. Developed using Flask and python. Website is hosted on heroku.
-It's live at https://restaurants-spotter.herokuapp.com/  .
+<!--It's live at https://restaurants-spotter.herokuapp.com/  . -->
+
+![](https://img.shields.io/badge/python-3.6%20|%203.7%20|%203.8-FFFC00?style=flat-circle&logo=python&logoColor=309698)
+![](https://img.shields.io/github/license/shsarv/Restaurant-Recommendation-System?style=flat-circle)
+![](https://img.shields.io/badge/build-flask%201.1.2-blue?style=flat-circle&logo=flask&logoColor=white)
+![](https://img.shields.io/github/repo-size/shsarv/Restaurant-Recommendation-System?color=e02c73&style=flat-circle)
+![](https://img.shields.io/tokei/lines/github/shsarv/Restaurant-Recommendation-System?color=orange&logoColor=blue&style=flat-circle)
+![](https://img.shields.io/github/languages/top/shsarv/Restaurant-Recommendation-System?color=blueviolet&style=flat-circle)
 
 
-### Structure
+### 📂 Structure
 
 The directory contains web sub directories and a sub directory for hosting model and other scripts:
 
@@ -21,7 +30,7 @@ The directory contains web sub directories and a sub directory for hosting model
 
 The entire code has been developed using Python programming language and is hosted on Heroku. The analysis and model is developed using SkcitLearn library. The website is developed using Flask. 
 
-### How to run the project:
+### How to run the project 🚀:
 
   1. Open the `Terminal`.
   2. Clone the repository by entering `https://github.com/shsarv/Restaurant-Recommendation-System.git`.
@@ -32,7 +41,7 @@ The entire code has been developed using Python programming language and is host
   7. Now, execute the following command: `flask run` and it will point to the `localhost` server with the port `5000`.
   8. Enter the `IP Address: http://localhost:5000` on a web browser and use the application.
   
-### Dependencies
+### Dependencies <img src="https://www.flaticon.com/svg/static/icons/svg/2621/2621122.svg" width="24px">
 
 The following dependencies can be found in [requirements.txt](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/requirements.txt):
 
@@ -45,7 +54,11 @@ The following dependencies can be found in [requirements.txt](https://github.com
   
 ### Cosine Similirity is used for recommendation purpose using Scikit-learn library.
 
-### References
+
+<center><img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3ATcSqTT8I671rT7KAjWSDoAq70w6nDStA&usqp=CAU"></center>
+
+
+### References <img src="https://www.flaticon.com/svg/static/icons/svg/1420/1420886.svg" width="24px">
 #### For Building machine learning model and deployment:
 1. https://medium.com/the-andela-way/deploying-a-python-flask-app-to-heroku-41250bda27d0
 2. https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html
