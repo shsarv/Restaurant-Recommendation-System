@@ -24,7 +24,21 @@ The directory contains web sub directories and a sub directory for hosting model
 
 4. [templates](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/templates) contains the html file.
 
+      |_ _ _ [home.html](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/templates/home.html) contains home page.
+      
+      |_ _ _ [search.html](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/templates/search.html) contains search page.
+
 5. [static](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/static) contains the css file and images.
+
+      |_ _ _ [home.css](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/static/home.css) contains Styling of home page.
+      
+      |_ _ _ [search.css](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/static/search.css) contains Styling of Search page/ result page.
+      
+      |_ _ _ [backgrund1.jpg](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/static/background1.jpg) contains background image of web pages.
+
+6. [main_rest.csv](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/main_rest.csv) contains the raw data.
+
+7. [food1.csv](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/food1.csv) contains cleaned data.
   
 ### Codebase <img src="https://www.flaticon.com/svg/static/icons/svg/3565/3565585.svg" width="24px">
 
