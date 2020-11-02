@@ -2,7 +2,7 @@
 
 
 This repository contains code for Recommendation of differents restaurants. Developed using Flask and python. Website is hosted on heroku.
-<!--It's live at https://restaurants-spotter.herokuapp.com/  . -->
+It's live at **https://restaurants-spotter.herokuapp.com/  .**
 
 ![](https://img.shields.io/badge/python-3.6%20|%203.7%20|%203.8-FFFC00?style=flat-circle&logo=python&logoColor=309698)
 ![](https://img.shields.io/github/license/shsarv/Restaurant-Recommendation-System?color=9900cc&logoColor=9900cc)
@@ -95,7 +95,7 @@ The following dependencies can be found in [requirements.txt](https://github.com
 
 [![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/0)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/0)[![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/1)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/1)[![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/2)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/2)[![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/3)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/3)[![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/4)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/4)[![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/5)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/5)[![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/6)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/6)[![](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/images/7)](https://sourcerer.io/fame/shsarv/shsarv/Restaurant-Recommendation-System/links/7)
 
-<img src="https://img.shields.io/github/followers/shsarv?style=social"><img src="https://img.shields.io/twitter/follow/sarveshroli?label=twitter&style=social">
+<img src="https://img.shields.io/github/followers/shsarv?style=social"> <img src="https://img.shields.io/twitter/follow/sarveshroli?label=twitter&style=social">
 
 
 <hr>
