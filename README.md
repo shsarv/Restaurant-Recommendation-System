@@ -2,6 +2,9 @@
 
 
 This repository contains code for Recommendation of differents restaurants. Developed using Flask and python. Website is hosted on heroku.
+
+
+
 It's live at **https://restaurants-spotter.herokuapp.com/  .**
 
 ![](https://img.shields.io/badge/python-3.6%20|%203.7%20|%203.8-FFFC00?style=flat-circle&logo=python&logoColor=309698)
