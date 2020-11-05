@@ -49,8 +49,9 @@ The entire code has been developed using Python programming language and is host
 ### How to run the project 🚀:
 
   1. Open the `Terminal`.
-  2. Clone the repository by entering `https://github.com/shsarv/Restaurant-Recommendation-System.git`.
+  2. Clone the repository by entering `$ git clone https://github.com/shsarv/Restaurant-Recommendation-System.git`.
   3. Ensure that `Python3` and `pip` are installed on the system.
+  4. change the diectory to repository name using  `$ cd [Repository name]`.
   4. Create a `virtualenv` by executing the following command: `virtualenv env`.
   5. Activate the `env` virtual environment by executing the follwing command: `source env/bin/activate`.
   6. Enter the cloned repository directory and execute `pip install -r requirements.txt`.
