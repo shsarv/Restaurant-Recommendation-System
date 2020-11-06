@@ -44,7 +44,7 @@ The directory contains web sub directories and a sub directory for hosting model
   
 ### Codebase <img src="https://www.flaticon.com/svg/static/icons/svg/3565/3565585.svg" width="24px">
 
-The entire code has been developed using Python programming language and is hosted on Heroku. The analysis and model is developed using SkcitLearn library. The website is developed using Flask. 
+The entire code has been developed using Python programming language and is hosted on Heroku. The analysis and model is developed using ScikitLearn library. The website is developed using Flask. 
 
 ### How to run the project 🚀:
 
